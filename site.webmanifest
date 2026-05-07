@@ -1,0 +1,14 @@
+{
+  "name": "Peinture Saint-Jérôme — Régional",
+  "short_name": "Peinture Saint-Jérôme",
+  "description": "Peintres pour la MRC Rivière-du-Nord. Résidentiel, immeubles locatifs, intérieur, extérieur.",
+  "lang": "fr-CA",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1f3a52",
+  "theme_color": "#a14a36",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
